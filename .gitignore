@@ -1,4 +1,4 @@
-Ex_*/.*
+java/**/.*
 **/bin
 **/build
 .metadata
