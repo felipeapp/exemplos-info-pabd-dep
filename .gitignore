@@ -1,0 +1,4 @@
+Ex_*/.*
+**/bin
+**/build
+.metadata
