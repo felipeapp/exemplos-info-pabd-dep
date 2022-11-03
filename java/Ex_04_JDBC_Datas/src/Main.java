@@ -96,6 +96,7 @@ public class Main {
 		}
 
 		leitor.close();
+		conexao.close();
 
 	}
 
